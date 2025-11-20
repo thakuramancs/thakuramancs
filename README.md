@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Fullstack Java Developer | Java | Spring Boot | ReactJS | Microservices</h3>
 
 <p align="center">
