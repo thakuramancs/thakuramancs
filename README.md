@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | Microservices</h3>
+<h3 align="center">FullStack Developer | Java | Spring Boot | React | Microservices</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aman-thakur041">LinkedIn</a> •
@@ -9,12 +8,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - 🎓 B.Tech CSE @ **SRM Institute of Science and Technology**  
 - 🔭 Focused on **Java, Spring Boot, Microservices, Cloud & System Design**  
 - 💻 I enjoy building scalable backend systems with **Redis, JWT, OKTA Auth0, Feign Client, MySQL**  
 - 🌐 I also work with **React.js** on the frontend  
-- 🔥 Passionate about **DSA, clean architecture & performance optimization**  
 
 ---
 
