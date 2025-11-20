@@ -4,8 +4,8 @@
 <h3 align="center">Fullstack Java Developer | Java | Spring Boot | ReactJS | Microservices</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aman-thakur041">LinkedIn</a> •
-  <a href="mailto:amanthakur05752@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/aman-thakur041">LinkedIn</a> 
+  <a href="mailto:amanthakur05752@gmail.com">Email</a> 
 </p>
 
 ---
