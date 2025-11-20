@@ -1,1 +1,99 @@
-# thakuramancs
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h3 align="center">Backend Developer | Java | Spring Boot | Microservices</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aman-thakur041">LinkedIn</a> •
+  <a href="mailto:amanthakur05752@gmail.com">Email</a> •
+  <a href="https://github.com/thakuramancs">GitHub</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE @ **SRM Institute of Science and Technology**  
+- 🔭 Focused on **Java, Spring Boot, Microservices, Cloud & System Design**  
+- 💻 I enjoy building scalable backend systems with **Redis, JWT, OKTA Auth0, Feign Client, MySQL**  
+- 🌐 I also work with **React.js** on the frontend  
+- 🔥 Passionate about **DSA, clean architecture & performance optimization**  
+
+---
+
+## 🚀 Tech Stack
+
+### 🔧 Backend
+<p>
+ <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,postman"/>
+</p>
+
+### 🎨 Frontend
+<p>
+ <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind"/>
+</p>
+
+### 🛠 Tools & Other Skills
+<p>
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
+
+---
+
+## 🧩 Projects
+
+### 🔹 **CODEFOLIO**  
+**Tech:** Spring Boot (Microservices), React.js, MySQL, Redis, OKTA Auth0  
+- Aggregates competitive programming profiles & upcoming contests  
+- Microservices communication via **Feign Client**  
+- Redis caching to improve performance  
+- OKTA Auth0 authentication  
+- Data scraping with JSOUP  
+🔗 **Repo:** https://github.com/thakuramancs/CodeFolio
+
+---
+
+### 🔹 **CLASHROOM**  
+**Tech:** Spring Boot, JWT Security, MySQL, React.js  
+- Esports matchmaking platform with dynamic rooms  
+- JWT-secured backend  
+- Reward calculation based on kills/placements  
+🔗 **Repo:** https://github.com/thakuramancs/Clashroom
+
+---
+
+## 🏆 Achievements
+- 🥇 **LeetCode 365 Days Badge**  
+- ⭐ **5-Star SQL — HackerRank**  
+- 🥈 **Top 10 — Hackwizard Hackathon** (built BPO service for NGO)
+
+---
+
+## 🎖 Certifications
+- **Oracle Cloud Infrastructure 2025 – Foundations Associate**  
+- **NPTEL – Cloud Computing & Distributed Systems**  
+- **Spring Boot Essentials – Scalar Academy**  
+- **SQL Basic – Simplilearn**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thakuramancs&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakuramancs&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thakuramancs&theme=discord&margin-w=10"/>
+</p>
+
+---
+
+## 👀 Profile Visitors  
+<img src="https://komarev.com/ghpvc/?username=thakuramancs&style=flat-square&color=blue" />
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+
