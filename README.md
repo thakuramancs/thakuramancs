@@ -1,4 +1,4 @@
-<h3 align="center">FullStack Developer | Java | Spring Boot | React | Microservices</h3>
+<h3 align="center">FullStack Java Developer | Java | Spring Boot | React | Microservices</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aman-thakur041">LinkedIn</a> •
