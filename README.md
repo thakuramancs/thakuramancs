@@ -45,27 +45,6 @@
 
 ---
 
-# 📦 **Projects**
-
-### 🔹 **CODEFOLIO**
-**Tech:** Spring Boot (Microservices), React.js, MySQL, Redis, OKTA Auth0  
-- Aggregates CP profiles + upcoming contests  
-- Feign-client microservice communication  
-- Redis caching for performance  
-- OKTA Auth0 authentication  
-- JSOUP scraping  
-🔗 Repo → https://github.com/thakuramancs/CodeFolio
-
----
-
-### 🔹 **CLASHROOM**
-**Tech:** Spring Boot, JWT, React.js, MySQL  
-- Esports matchmaking system  
-- JWT-secured backend  
-- Dynamic gaming rooms  
-🔗 Repo → https://github.com/thakuramancs/Clashroom
-
----
 
 # 🏆 **Achievements**
 - 🟢 **LeetCode 365-Day Badge**  
@@ -93,22 +72,16 @@
 
 # 🏆 **GitHub Trophies**
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thakuramancs&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thakuramancs&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
 
-# 🐍 **Contribution Snake**
-<p align="center">
-<img src="https://github.com/thakuramancs/thakuramancs/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 # 🔗 **Connect With Me**
 <p align="left">
-  <a href="https://linkedin.com/in/aman-thakur041"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:amanthakur05752@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://linkedin.com/in/aman-thakur041"></a>
+  <a href="mailto:amanthakur05752@gmail.com"></a>
 </p>
 
 ---
